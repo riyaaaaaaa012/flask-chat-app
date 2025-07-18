@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.chat-box {
+    font-family: monospace;
+    background-color: #ffffff;
+}
+
+.bot-message {
+    color: green;
+    font-style: italic;
+}
+.user-message {
+    color: black;
+}
